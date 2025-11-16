@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Leads Feed</title>
+    <link>https://yourdomain.com</link>
+    <description>Leads exported from Sheets</description>
+    
+  <item>
+    <title>Yishai Back</title>
+    <link>mailto:yishai@claritee.io</link>
+    <description>Lead from Google Sheets</description>
+    <pubDate>Sun, 16 Nov 2025 10:04:40 GMT</pubDate>
+  </item>
+
+
+  <item>
+    <title>Iron Dove</title>
+    <link>mailto:yishai@irondove.co</link>
+    <description>Lead from Google Sheets</description>
+    <pubDate>Sun, 16 Nov 2025 10:04:40 GMT</pubDate>
+  </item>
+
+  </channel>
+</rss>
